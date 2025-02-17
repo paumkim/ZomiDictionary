@@ -1,0 +1,29 @@
+/ZomiDictionary
+├── /data
+│   ├── gatitos.tsv               # Seed dataset (Zomi-English translations)
+│   ├── train.tsv                 # Training dataset for AI/ML models
+│   ├── test.tsv                  # Evaluation dataset
+│   ├── parallel_texts/           # Zomi-English sentence pairs
+│   │   ├── literature.tsv        # Translated literature
+│   │   └── religious_texts.tsv   # Religious texts
+│   ├── audio_pronunciations/     # Audio files for words
+│   │   ├── khang.mp3             # Example audio file
+│   │   └── gam.mp3               # Example audio file
+│   └── dialect_variants/         # Dialect-specific datasets
+│       ├── tedim.tsv             # Tedim dialect
+│       ├── falam.tsv             # Falam dialect
+│       └── hakha.tsv             # Hakha dialect
+├── /src
+│   ├── frontend/                 # Website code
+│   │   ├── index.html            # Main website page
+│   │   └── styles.css            # CSS for styling
+│   └── backend/                  # Database and API code
+│       ├── api.py                # API for querying the dictionary
+│       └── database.py           # Database connection and queries
+├── /docs
+│   ├── CONTRIBUTING.md           # How to contribute
+│   ├── ETHICS.md                 # Ethical use guidelines
+│   ├── ROADMAP.md                # Project milestones
+│   └── DATASET_DESCRIPTION.md    # Description of datasets
+├── LICENSE                       # CC-BY-4.0 license for data, MIT for code
+└── README.md                     # Project overview and instructions
