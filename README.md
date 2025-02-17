@@ -73,4 +73,4 @@ Your support helps us grow! Consider:
 
 ---
 
-Thank you for joining us in preserving and promoting the Zomi language! Together, we can ensure that Zomi Language thrives in the age of AI! 🌍✨
+Thank you for joining us in preserving and promoting the Zomi language! Together, we can ensure that Zomi people thrives in the age of AI! 🌍✨
