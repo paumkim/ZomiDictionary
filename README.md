@@ -69,7 +69,7 @@ Have questions, ideas, or contributions? Reach out to us:
 Your support helps us grow! Consider:
 - **Donating**: https://zomidictionary.com/donate
 - **Sharing**: Spread the word about this project.
-- **Contributing**: Add words, code, or feedback.
+- **Contributing**: Add words, code, financial support or feedback.
 
 ---
 
