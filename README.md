@@ -52,22 +52,22 @@ We are committed to preserving the Zomi language and culture. Please read our [E
 
 ## 🙏 Acknowledgments
 This project is made possible by the contributions of Zomi speakers, linguists, and open-source enthusiasts worldwide. Special thanks to:
-- [Zomi Organizations](#)
-- [Open-Source Contributors](#)
+- [Zomi Organizations]
+- [Open-Source Contributors]
 
 ---
 
 ## 📞 Contact Us
 Have questions or ideas? Reach out to us:
 - **Email**: admin@zomidictionary.com (#)
-- **Website**: https://ZomiDictionary.com(https://ZomiDictionary.com)
+- **Website**: https://ZomiDictionary.com
 - **GitHub Issues**: Open an issue in this repository.
 
 ---
 
 ## 🌱 Support the Project
 Your support helps us grow! Consider:
-- **Donating**: https://zomidictionary.com/donate(#)
+- **Donating**: https://zomidictionary.com/donate
 - **Sharing**: Spread the word about this project.
 - **Contributing**: Add words, code, or feedback.
 
