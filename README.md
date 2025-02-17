@@ -58,8 +58,8 @@ This project is made possible by the contributions of Zomi speakers, linguists, 
 ---
 
 ## 📞 Contact Us
-Have questions or ideas? Reach out to us:
-- **Email**: admin@zomidictionary.com
+Have questions, ideas, or contributions? Reach out to us:
+- **Email**: contribute@zomilanguage.com
 - **Website**: https://ZomiDictionary.com
 - **GitHub Issues**: Open an issue in this repository.
 
