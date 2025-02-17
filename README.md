@@ -4,7 +4,7 @@ Zomi Dictionary: an open-source Zomi-English dictionary and language resource fo
 
 Welcome to the **Zomi Dictionary** project, an open-source initiative to preserve and promote the Zomi language. This repository provides datasets for Zomi-English translations, dialect variations, and evaluation sets, all under the [CC-BY-4.0 license](LICENSE). Our goal is to support AI/ML training, language preservation, and digital inclusion for the Zomi-speaking community.
 
-Explore the project website: [https://ZomiDictionary.com]
+Explore the project website: https://ZomiDictionary.com
 
 ---
 
