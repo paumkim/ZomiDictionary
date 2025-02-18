@@ -1,6 +1,6 @@
 ---
-title: Whitepaper - The Zomi Language & ZomiDictionary Project
-date: February 20, 2025
+TITLE: Whitepaper - The Zomi Language & ZomiDictionary Project
+DATE: February 20, 2025
 ---
 
 # Whitepaper: The Zomi Language & ZomiDictionary Project  
