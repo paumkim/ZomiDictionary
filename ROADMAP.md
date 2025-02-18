@@ -12,7 +12,7 @@ The Zomi Dictionary project is a long-term initiative to preserve and promote th
 ---
 
 ## **Phase 2: Data Enrichment (Months 4–9)**
-- Expand the dataset to 50,000+ entries.
+- Expand the dataset to 50,00+ entries.
 - Collect audio pronunciations for common words.
 - Digitize Zomi Language and literature texts.
 - Host a virtual "translation hackathon" for contributors.
