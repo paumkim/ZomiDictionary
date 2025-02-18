@@ -10,9 +10,9 @@
 │   │   ├── khang.mp3             # Example audio file
 │   │   └── gam.mp3               # Example audio file
 │   └── dialect_variants/         # Dialect-specific datasets
-│       ├── tedim.tsv             # Tedim dialect
-│       ├── falam.tsv             # Falam dialect
-│       └── hakha.tsv             # Hakha dialect
+│       ├── tedim.tsv             # Tedim language
+│       ├── falam.tsv             # Falam language
+│       └── hakha.tsv             # Hakha language
 ├── /src
 │   ├── frontend/                 # Website code
 │   │   ├── index.html            # Main website page
