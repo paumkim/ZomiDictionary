@@ -3,7 +3,7 @@ TITLE: Whitepaper - Zomi Dictionary Project
 DATE: February 20, 2025
 ---
 
-# Whitepaper: The Zomi Language & ZomiDictionary Project  
+# Whitepaper: The ZomiDictionary Project  
 **Preserving Zomi Cultural Heritage Through Open-Source Innovation**  
 **[ZomiDictionary.com](https://ZomiDictionary.com)**  
 
