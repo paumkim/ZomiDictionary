@@ -1,5 +1,5 @@
 # Project Roadmap
-
+The initial project began in 2007, approximately 18 years ago, but we were able to launch it publicly only in recent years. 
 The Zomi Dictionary project is a long-term initiative to preserve and promote the Zomi language. Here’s our roadmap for the next 18 months:
 
 ---
