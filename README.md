@@ -69,6 +69,99 @@ Explore the project website: https://ZomiDictionary.com
 </p>
 
 ---
+# Zomi Dictionary Project
+
+**Zomi Dictionary** is an open-source initiative to preserve, promote, and enhance the Zomi language through comprehensive datasets, translations, and linguistic tools. Join us in uplifting the Zomi language for education, digital inclusion, and AI/ML training!
+
+[Explore the live website](https://zomidictionary.com) • [Report an Issue](https://github.com/ZomiLanguage/ZomiDictionary/issues) • [Join Discussions](https://github.com/ZomiLanguage/ZomiDictionary/discussions)
+
+---
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/language.png" width="40" alt="Language Icon"/>
+  <h1>Zomi Dictionary Project</h1>
+</div>
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GitHub Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/issues)
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fzomidictionary.com)](https://zomidictionary.com)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/m/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/commits/main)
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-dictionary-education-flaticons-lineal-color-flat-icons.png" width="80" alt="Dictionary Icon"/>
+  <img src="https://img.icons8.com/color/96/000000/language-communication.png" width="80" alt="Communication Icon"/>
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linguistics-language-justicon-lineal-color-justicon.png" width="80" alt="Linguistics Icon"/>
+</div>
+
+---
+
+## 📊 Project Statistics
+
+| **Metric**       | **Badge**                                                                                      |
+|------------------|------------------------------------------------------------------------------------------------|
+| **Total Words**  | ![Word Count](https://img.shields.io/badge/Words-14,614-green)                                  |
+| **Contributors** | ![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary?color=blue) |
+| **GitHub Stars** | ![Stars](https://img.shields.io/github/stars/ZomiLanguage/ZomiDictionary?style=social)           |
+| **Website Visits** | ![Visits](https://visitor-badge.laobi.icu/badge?page_id=ZomiLanguage.ZomiDictionary)           |
+| **Open Issues**  | ![Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary?color=red)              |
+| **Dataset Size** | ![Dataset](https://img.shields.io/badge/Dataset-50MB-yellow)                                    |
+
+---
+
+## 🌟 Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/search.png" width="40" alt="Search Icon"/><br/>
+        Advanced Search
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/translation.png" width="40" alt="Translation Icon"/><br/>
+        AI Translation
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/voice-id.png" width="40" alt="Audio Icon"/><br/>
+        Audio Pronunciations
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📚 Quick Links
+
+<p align="center">
+  <a href="https://zomidictionary.com">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="30" alt="Domain Icon"/> Live Website
+  </a> •
+  <a href="https://github.com/ZomiLanguage/ZomiDictionary/issues">
+    <img src="https://img.icons8.com/color/48/000000/bug.png" width="30" alt="Bug Icon"/> Report Bug
+  </a> •
+  <a href="https://github.com/ZomiLanguage/ZomiDictionary/discussions">
+    <img src="https://img.icons8.com/color/48/000000/topic.png" width="30" alt="Discussion Icon"/> Discussions
+  </a>
+</p>
+
+---
+
+## 🛠️ Installation
+
+Clone the repository and install dependencies:
+
+```bash
+# Clone the repository
+git clone https://github.com/ZomiLanguage/ZomiDictionary.git
+
+# Navigate to the project directory
+cd ZomiDictionary
+
+# Install Python dependencies
+pip install -r requirements.txt
+
 
 ## 🛠️ Installation
 ```bash
