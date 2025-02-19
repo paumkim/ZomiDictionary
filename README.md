@@ -8,6 +8,77 @@ Explore the project website: https://ZomiDictionary.com
 
 # Zomi Language Development Project
 
+# <img src="https://img.icons8.com/color/48/000000/language.png" width="40"/> Zomi Dictionary Project
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GitHub Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/issues)
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fzomidictionary.com)](https://zomidictionary.com)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/m/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/commits/main)
+
+<div align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-dictionary-education-flaticons-lineal-color-flat-icons.png" width="80"/>
+  <img src="https://img.icons8.com/color/96/000000/language-communication.png" width="80"/>
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linguistics-language-justicon-lineal-color-justicon.png" width="80"/>
+</div>
+
+## 📊 Project Statistics
+| **Metric**             | **Badge**                                                                                                                                 |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Total Words**         | ![Word Count](https://img.shields.io/badge/Words-14,614-green)                                                                           |
+| **Contributors**        | ![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary?color=blue)                                      |
+| **GitHub Stars**        | ![Stars](https://img.shields.io/github/stars/ZomiLanguage/ZomiDictionary?style=social)                                                  |
+| **Website Visits**      | ![Visits](https://visitor-badge.laobi.icu/badge?page_id=ZomiLanguage.ZomiDictionary)                                                   |
+| **Open Issues**         | ![Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary?color=red)                                                  |
+| **Dataset Size**        | ![Dataset](https://img.shields.io/badge/Dataset-50MB-yellow)                                                                            |
+
+---
+
+## 🌟 Features
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/search.png" width="40"/></td>
+      <td><img src="https://img.icons8.com/color/48/000000/translation.png" width="40"/></td>
+      <td><img src="https://img.icons8.com/color/48/000000/voice-id.png" width="40"/></td>
+    </tr>
+    <tr>
+      <td>Advanced Search</td>
+      <td>AI Translation</td>
+      <td>Audio Pronunciations</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📚 Quick Links
+<p align="center">
+  <a href="https://zomidictionary.com">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="30"/>
+    Live Website
+  </a> •
+  <a href="https://github.com/ZomiLanguage/ZomiDictionary/issues">
+    <img src="https://img.icons8.com/color/48/000000/bug.png" width="30"/>
+    Report Bug
+  </a> •
+  <a href="https://github.com/ZomiLanguage/ZomiDictionary/discussions">
+    <img src="https://img.icons8.com/color/48/000000/topic.png" width="30"/>
+    Discussions
+  </a>
+</p>
+
+---
+
+## 🛠️ Installation
+```bash
+# Clone repository
+git clone https://github.com/ZomiLanguage/ZomiDictionary.git
+
+# Install dependencies
+cd ZomiDictionary
+pip install -r requirements.txt
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary] (Contributors) (https://github.com/zocia/zomi/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary)](https://github.com/zomilanguage/zomidictionary/issues)
