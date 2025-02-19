@@ -80,7 +80,7 @@ Explore the project website: https://ZomiDictionary.com
 
 ---
 
-## 📂 Repository Structure
+## 📂 Zomi Dictionary Repository Structure
 This repository contains the following files:
 ```
 zomi-dictionary/
