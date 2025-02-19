@@ -14,7 +14,7 @@ Explore the project website: https://ZomiDictionary.com
 
 ![](assets/icons/translate.svg) **Welcome to the Zomi Language Project**, a collaborative effort to document, preserve, and promote the Zomi language.
 
-Visit our official website: [ZomiLanguage.com](https://ZomiDictionary.com).
+Visit our official website: [ZomiDictionary.com](https://ZomiDictionary.com).
 
 ---
 
