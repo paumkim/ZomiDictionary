@@ -82,47 +82,48 @@ Explore the project website: https://ZomiDictionary.com
 
 ## 📂 Repository Structure
 This repository contains the following files:
+```
 zomi-dictionary/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   ├── feature_request.md
-│   │   └── dataset_contribution.md
+│   │   ├── 🐛 bug_report.md
+│   │   ├── ✨ feature_request.md
+│   │   └── 📄 dataset_contribution.md
 │   └── workflows/
-│       ├── ci.yml
-│       └── cd.yml
+│       ├── ⚙️ ci.yml
+│       └── ⚙️ cd.yml
 ├── docs/
-│   ├── CODE_OF_CONDUCT.md
-│   ├── DATASET_DESCRIPTION.md
-│   ├── ETHICS.md
-│   ├── ROADMAP.md
-│   ├── SECURITY.md
-│   └── WHITEPAPER.md
+│   ├── 🤝 CODE_OF_CONDUCT.md
+│   ├── 📄 DATASET_DESCRIPTION.md
+│   ├── 🌐 ETHICS.md
+│   ├── 🗺️ ROADMAP.md
+│   ├── 🔐 SECURITY.md
+│   └── 📜 WHITEPAPER.md
 ├── data/
-│   ├── gatitos.tsv
-│   ├── literature.tsv
-│   ├── train.tsv
-│   ├── test.tsv
-│   ├── audio/
-│   │   ├── khang.mp3
-│   │   └── gam.mp3
-│   └── dialects/
-│       ├── tedim.tsv
-│       ├── falam.tsv
-│       └── hakha.tsv
+│   ├── 📄 gatitos.tsv
+│   ├── 📄 literature.tsv
+│   ├── 📄 train.tsv
+│   ├── 📄 test.tsv
+│   ├── 🔊 audio/
+│   │   ├── 🔊 khang.mp3
+│   │   └── 🔊 gam.mp3
+│   └── 📄 dialects/
+│       ├── 📄 tedim.tsv
+│       ├── 📄 falam.tsv
+│       └── 📄 hakha.tsv
 ├── src/
-│   ├── frontend/
-│   │   ├── index.html
-│   │   ├── styles.css
-│   │   └── script.js
-│   └── backend/
-│       ├── api.py
-│       ├── database.py
-│       └── requirements.txt
-├── LICENSE
-├── README.md
-└── CONTRIBUTING.md
-
+│   ├── 💻 frontend/
+│   │   ├── 📄 index.html
+│   │   ├── 🎨 styles.css
+│   │   └── 🖥️ script.js
+│   └── 💻 backend/
+│       ├── 🖥️ api.py
+│       ├── 🖥️ database.py
+│       └── 📄 requirements.txt
+├── 📜 LICENSE
+├── 📄 README.md
+└── 📄 CONTRIBUTING.md
+```
 
 ---
 
