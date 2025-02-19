@@ -9,7 +9,7 @@ Explore the project website: https://ZomiDictionary.com
 # Zomi Language Development Project
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary](https://github.com/zocia/zomi/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary] (Contributors) (https://github.com/zocia/zomi/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary)](https://github.com/zomilanguage/zomidictionary/issues)
 
 ![](assets/icons/translate.svg) **Welcome to the Zomi Language Project**, a collaborative effort to document, preserve, and promote the Zomi language.
