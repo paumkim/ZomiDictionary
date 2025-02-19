@@ -96,19 +96,6 @@ Explore the project website: https://ZomiDictionary.com
 
 ---
 
-## 📊 Project Statistics
-
-| **Metric**       | **Badge**                                                                                      |
-|------------------|------------------------------------------------------------------------------------------------|
-| **Total Words**  | ![Word Count](https://img.shields.io/badge/Words-14,614-green)                                  |
-| **Contributors** | ![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary?color=blue) |
-| **GitHub Stars** | ![Stars](https://img.shields.io/github/stars/ZomiLanguage/ZomiDictionary?style=social)           |
-| **Website Visits** | ![Visits](https://visitor-badge.laobi.icu/badge?page_id=ZomiLanguage.ZomiDictionary)           |
-| **Open Issues**  | ![Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary?color=red)              |
-| **Dataset Size** | ![Dataset](https://img.shields.io/badge/Dataset-50MB-yellow)                                    |
-
----
-
 ## Screenshots
 ![](assets/screenshots/translation_tool.png)
 *Translation Tool Interface*
