@@ -148,39 +148,7 @@ Explore the project website: https://ZomiDictionary.com
 
 ---
 
-## 🛠️ Installation
 
-Clone the repository and install dependencies:
-
-```bash
-# Clone the repository
-git clone https://github.com/ZomiLanguage/ZomiDictionary.git
-
-# Navigate to the project directory
-cd ZomiDictionary
-
-# Install Python dependencies
-pip install -r requirements.txt
-
-
-## 🛠️ Installation
-```bash
-# Clone repository
-git clone https://github.com/ZomiLanguage/ZomiDictionary.git
-
-# Install dependencies
-cd ZomiDictionary
-pip install -r requirements.txt
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary] (Contributors) (https://github.com/zocia/zomi/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary)](https://github.com/zomilanguage/zomidictionary/issues)
-
-![](assets/icons/translate.svg) **Welcome to the Zomi Language Project**, a collaborative effort to document, preserve, and promote the Zomi language.
-
-Visit our official website: [ZomiDictionary.com](https://ZomiDictionary.com).
-
----
 
 ## Features
 - ![](assets/icons/grammar.svg) Comprehensive grammar rules and phonetic guides.
