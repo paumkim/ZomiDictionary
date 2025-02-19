@@ -109,56 +109,6 @@ Explore the project website: https://ZomiDictionary.com
 
 ---
 
-## 🌟 Features
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/search.png" width="40" alt="Search Icon"/><br/>
-        Advanced Search
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/translation.png" width="40" alt="Translation Icon"/><br/>
-        AI Translation
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/voice-id.png" width="40" alt="Audio Icon"/><br/>
-        Audio Pronunciations
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📚 Quick Links
-
-<p align="center">
-  <a href="https://zomidictionary.com">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="30" alt="Domain Icon"/> Live Website
-  </a> •
-  <a href="https://github.com/ZomiLanguage/ZomiDictionary/issues">
-    <img src="https://img.icons8.com/color/48/000000/bug.png" width="30" alt="Bug Icon"/> Report Bug
-  </a> •
-  <a href="https://github.com/ZomiLanguage/ZomiDictionary/discussions">
-    <img src="https://img.icons8.com/color/48/000000/topic.png" width="30" alt="Discussion Icon"/> Discussions
-  </a>
-</p>
-
----
-
-
-
-## Features
-- ![](assets/icons/grammar.svg) Comprehensive grammar rules and phonetic guides.
-- ![](assets/icons/translate.svg) English-to-Zomi and Zomi-to-English translation dictionaries.
-- ![](assets/icons/vocab.svg) Tools for generating vocabulary lists and corpora.
-- Open-source scripts for natural language processing (NLP).
-- A growing dataset of Zomi texts for linguistic research.
-
----
-
 ## Screenshots
 ![](assets/screenshots/translation_tool.png)
 *Translation Tool Interface*
