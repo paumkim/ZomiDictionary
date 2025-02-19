@@ -16,11 +16,7 @@ Explore the project website: https://ZomiDictionary.com
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fzomidictionary.com)](https://zomidictionary.com)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/m/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/commits/main)
 
-<div align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-dictionary-education-flaticons-lineal-color-flat-icons.png" width="80"/>
-  <img src="https://img.icons8.com/color/96/000000/language-communication.png" width="80"/>
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linguistics-language-justicon-lineal-color-justicon.png" width="80"/>
-</div>
+
 
 ## 📊 Project Statistics
 | **Metric**             | **Badge**                                                                                                                                 |
