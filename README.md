@@ -69,32 +69,6 @@ Explore the project website: https://ZomiDictionary.com
 </p>
 
 ---
-# Zomi Dictionary Project
-
-**Zomi Dictionary** is an open-source initiative to preserve, promote, and enhance the Zomi language through comprehensive datasets, translations, and linguistic tools. Join us in uplifting the Zomi language for education, digital inclusion, and AI/ML training!
-
-[Explore the live website](https://zomidictionary.com) • [Report an Issue](https://github.com/ZomiLanguage/ZomiDictionary/issues) • [Join Discussions](https://github.com/ZomiLanguage/ZomiDictionary/discussions)
-
----
-
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/language.png" width="40" alt="Language Icon"/>
-  <h1>Zomi Dictionary Project</h1>
-</div>
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub Contributors](https://img.shields.io/github/contributors/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/graphs/contributors)
-[![GitHub Issues](https://img.shields.io/github/issues/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/issues)
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fzomidictionary.com)](https://zomidictionary.com)
-[![GitHub Commits](https://img.shields.io/github/commit-activity/m/ZomiLanguage/ZomiDictionary)](https://github.com/ZomiLanguage/ZomiDictionary/commits/main)
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-dictionary-education-flaticons-lineal-color-flat-icons.png" width="80" alt="Dictionary Icon"/>
-  <img src="https://img.icons8.com/color/96/000000/language-communication.png" width="80" alt="Communication Icon"/>
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linguistics-language-justicon-lineal-color-justicon.png" width="80" alt="Linguistics Icon"/>
-</div>
-
----
 
 ## Screenshots
 ![](assets/screenshots/translation_tool.png)
