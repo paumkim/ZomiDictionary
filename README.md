@@ -78,7 +78,7 @@ Explore the project website: https://ZomiDictionary.com
 
 ## 📂 Zomi Dictionary Repository Structure
 This repository contains the following files:
-'''
+\\\
 zomi-dictionary/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
